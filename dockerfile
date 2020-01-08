@@ -2,7 +2,7 @@
 FROM ubuntu:bionic
 
 # Setup the locales for the Ubuntu system.  Because the base image is a bare bones 
-# setup, this is needed to get things in the correct language. 
+# setup, this is needed to get things in the correct language.
 # https://hub.docker.com/_/ubuntu/ 
 # Always use update with the install subcommand
 # https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
